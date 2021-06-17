@@ -1,0 +1,22 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/add32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add32
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/alu_ctl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu_ctl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/control_single.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module control_single
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/mem32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mem32
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/mips_single.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mips_single
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/mux2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/reg32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module reg32
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/reg_file.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module reg_file
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/rom32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rom32
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/tb_single_MIPS.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_single_MIPS

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_single_MIPS_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_single_MIPS" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="75969fs"></ZoomStartTime>
+      <ZoomEndTime time="136570fs"></ZoomEndTime>
+      <Cursor1Time time="226000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="288"></NameColumnWidth>
+      <ValueColumnWidth column_width="137"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="8" />
+   <wave_markers>
+      <marker time="22000" label="" />
+      <marker time="46000" label="" />
+      <marker time="126000" label="" />
+      <marker time="134000" label="" />
+      <marker time="154000" label="" />
+      <marker time="174000" label="" />
+      <marker time="194000" label="" />
+      <marker time="214000" label="" />
+      <marker time="70000" label="" />
+      <marker time="94000" label="" />
+      <marker time="118000" label="" />
+   </wave_markers>
+   <wvobject fp_name="/tb_single_MIPS/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_single_MIPS/MIPS/PC/pc_in" type="array">
+      <obj_property name="ElementShortName">pc_in[7:0]</obj_property>
+      <obj_property name="ObjectShortName">pc_in[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_single_MIPS/MIPS/PC/pc_out" type="array">
+      <obj_property name="ElementShortName">pc_out[7:0]</obj_property>
+      <obj_property name="ObjectShortName">pc_out[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_single_MIPS/MIPS/RFILE/v0" type="array">
+      <obj_property name="ElementShortName">v0[31:0]</obj_property>
+      <obj_property name="ObjectShortName">v0[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_single_MIPS/MIPS/RFILE/a0" type="array">
+      <obj_property name="ElementShortName">a0[31:0]</obj_property>
+      <obj_property name="ObjectShortName">a0[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_single_MIPS/MIPS/RFILE/t0" type="array">
+      <obj_property name="ElementShortName">t0[31:0]</obj_property>
+      <obj_property name="ObjectShortName">t0[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_single_MIPS/MIPS/RFILE/sp" type="array">
+      <obj_property name="ElementShortName">sp[31:0]</obj_property>
+      <obj_property name="ObjectShortName">sp[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_single_MIPS/MIPS/RFILE/ra" type="array">
+      <obj_property name="ElementShortName">ra[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ra[31:0]</obj_property>
+   </wvobject>
+</wave_config>

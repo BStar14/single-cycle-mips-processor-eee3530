@@ -1,0 +1,16 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/add32.v,1622655132,verilog,,C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/alu.v,,add32,,,,,,,,
+C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/alu.v,1622916055,verilog,,C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/alu_ctl.v,,alu,,,,,,,,
+C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/alu_ctl.v,1622655132,verilog,,C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/control_single.v,,alu_ctl,,,,,,,,
+C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/control_single.v,1622896055,verilog,,C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/mem32.v,,control_single,,,,,,,,
+C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/mem32.v,1623131266,verilog,,C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/mips_single.v,,mem32,,,,,,,,
+C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/mips_single.v,1623156516,verilog,,C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/mux2.v,,mips_single,,,,,,,,
+C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/mux2.v,1622655132,verilog,,C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/reg32.v,,mux2,,,,,,,,
+C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/reg32.v,1622916104,verilog,,C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/reg_file.v,,reg32,,,,,,,,
+C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/reg_file.v,1623150123,verilog,,C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/rom32.v,,reg_file,,,,,,,,
+C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/rom32.v,1622904580,verilog,,C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/tb_single_MIPS.v,,rom32,,,,,,,,
+C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/tb_single_MIPS.v,1622904640,verilog,,,,tb_single_MIPS,,,,,,,,

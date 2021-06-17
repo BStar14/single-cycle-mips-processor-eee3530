@@ -1,0 +1,60 @@
+Vivado Simulator 2020.2
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: E:/Xilinx/Vivado/2020.2/bin/unwrapped/win64.o/xelab.exe -wto 505f8cc607684fb0bd9670ea2b54a66d --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_single_MIPS_behav xil_defaultlib.tb_single_MIPS xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/mips_single.v" Line 1. Module mips_single doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/reg32.v" Line 18. Module reg32 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/add32.v" Line 1. Module add32 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/add32.v" Line 1. Module add32 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/reg_file.v" Line 1. Module reg_file doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/alu.v" Line 21. Module alu doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/rom32.v" Line 1. Module rom32 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/mem32.v" Line 22. Module mem32 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/mux2.v" Line 19. Module mux2(bitwidth=5) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/mux2.v" Line 19. Module mux2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/mux2.v" Line 19. Module mux2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/mux2.v" Line 19. Module mux2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/mux2.v" Line 19. Module mux2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/mux2.v" Line 19. Module mux2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/mux2.v" Line 19. Module mux2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/mux2.v" Line 19. Module mux2(bitwidth=5) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/control_single.v" Line 21. Module control_single doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/alu_ctl.v" Line 21. Module alu_ctl doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/mips_single.v" Line 1. Module mips_single doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/reg32.v" Line 18. Module reg32 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/add32.v" Line 1. Module add32 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/add32.v" Line 1. Module add32 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/reg_file.v" Line 1. Module reg_file doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/alu.v" Line 21. Module alu doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/rom32.v" Line 1. Module rom32 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/mem32.v" Line 22. Module mem32 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/mux2.v" Line 19. Module mux2(bitwidth=5) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/mux2.v" Line 19. Module mux2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/mux2.v" Line 19. Module mux2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/mux2.v" Line 19. Module mux2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/mux2.v" Line 19. Module mux2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/mux2.v" Line 19. Module mux2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/mux2.v" Line 19. Module mux2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/mux2.v" Line 19. Module mux2(bitwidth=5) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/control_single.v" Line 21. Module control_single doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Xilinx/Prj_vivado_Team_25/Prj_vivado_Team_25.srcs/sources_1/imports/given_sources/alu_ctl.v" Line 21. Module alu_ctl doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.reg32
+Compiling module xil_defaultlib.add32
+Compiling module xil_defaultlib.reg_file
+Compiling module xil_defaultlib.alu
+Compiling module xil_defaultlib.rom32
+Compiling module xil_defaultlib.mem32
+Compiling module xil_defaultlib.mux2(bitwidth=5)
+Compiling module xil_defaultlib.mux2
+Compiling module xil_defaultlib.control_single
+Compiling module xil_defaultlib.alu_ctl
+Compiling module xil_defaultlib.mips_single
+Compiling module xil_defaultlib.tb_single_MIPS
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_single_MIPS_behav
